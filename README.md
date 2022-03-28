@@ -21,4 +21,5 @@ Não tem segredo, è só responder as perguntas de acordo com o indicado no par�
 ### fluxograma de perguntas
 
 ![teste drawio (2)](https://user-images.githubusercontent.com/89821484/160331285-e8d1219f-30db-478f-b0b4-565619b5b65f.png)
+
 (imagem meramente ilustrativa)
